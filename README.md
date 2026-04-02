@@ -32,4 +32,107 @@
 | **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp; ![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat&logo=GitLab)&nbsp;  [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) [![](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) [![](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT)&nbsp; ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV)&nbsp; |
 
+---
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WGP36915&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WGP36915&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WGP36915&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WGP36915&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WGP36915&theme=algolia&utcOffset=8)
+
+---
+
+![佛系开发](imgs/buddhist-dev.png)
+
+---
+
+<br/>
+
+## 🔥 My projects:
+
+### Funny
+
+- [WGP36915](https://github.com/WGP36915/WGP36915) - 个人简介
+- [workflow-action](https://github.com/pudongping/workflow-action) - GitHub Actions
+
+### Python
+
+### ANC
+
+### AEC
+
+### Beamforming
+
+### ASR
+
+### KWS
+
+### VAD
+
+
+<details>
+<summary>其他 </summary>
+<summary>More </summary>
+
+## 📈 My GitHub Stats
+
+**NOTE:** Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/?username=WGP36915&theme=shades-of-purple&show_icons=true&count_private=true" alt="Gordon's GitHub Stats">
+    <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WGP36915&layout=compact&theme=tokyonight&hide=python,c/c++,matlab" alt="Gordon's Top Langs">
+</p>
+
+## 👨‍💻 My GitHub activities of last 31 days.
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+![pudongping's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pudongping&theme=react-dark&area=true&custom_title=Alex%20Pu's%20Contribution%20Graph)
+
+## 📘 My own favorite open source projects
+
+<!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
+<a href="https://github.com/pudongping/wise-locksmith.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=wise-locksmith&show_owner=true&theme=nightowl" />
+</a>
+
+</details>
+<!-- details end-->
+
+---
+
+<details>
+  <summary><b>Things used in this README</b></summary>
+  <br>
+  <ol>
+    <li>
+        <a href="https://github.com/DenverCoder1/readme-typing-svg">Typing SVG</a>
+    </li>
+    <li>
+        <a href="https://www.dute.org/weird-fonts">怪异英文生成器</a>
+    </li>
+    <li>
+      <a href="https://github.com/Nathan13888/VisitorBadgeReloaded">Visitor Badge Reloaded</a>
+    </li>
+    <li>
+      <a href="https://github.com/lowlighter/metrics">Lowlighter's Metrics</a>
+    </li>
+    <li>
+      <a href="https://github.com/athul/waka-readme">waka-readme</a>
+    </li>
+    <li>
+      <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
+    </li>
+    <li>
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">github-readme-activity-graph</a>
+    </li>
+    <li>
+        <a href="https://shields.io">Shields.io</a>
+    </li>
+    <li>
+        <a href="https://hits.dwyl.com/">HITS</a>
+    </li>
+  </ol>
+</details>
+
 
