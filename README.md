@@ -40,12 +40,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WGP36915&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WGP36915&theme=algolia&utcOffset=8)
 
----
-
-![佛系开发](imgs/buddhist-dev.png)
-
----
-
 <br/>
 
 ## 🔥 My projects:
@@ -71,30 +65,25 @@
 
 
 <details>
-<summary>其他 </summary>
 <summary>More </summary>
 
 ## 📈 My GitHub Stats
 
 **NOTE:** Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
-
+<!--
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/?username=WGP36915&theme=shades-of-purple&show_icons=true&count_private=true" alt="Gordon's GitHub Stats">
     <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WGP36915&layout=compact&theme=tokyonight&hide=python,c/c++,matlab" alt="Gordon's Top Langs">
 </p>
-
+-->
 ## 👨‍💻 My GitHub activities of last 31 days.
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-![pudongping's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pudongping&theme=react-dark&area=true&custom_title=Alex%20Pu's%20Contribution%20Graph)
+![WGP36915's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WGP36915&theme=react-dark&area=true&custom_title=Gordon%20Wu's%20Contribution%20Graph)
 
 ## 📘 My own favorite open source projects
 
-<!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://github.com/pudongping/wise-locksmith.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=wise-locksmith&show_owner=true&theme=nightowl" />
-</a>
 
 </details>
 <!-- details end-->
@@ -128,9 +117,6 @@
     </li>
     <li>
         <a href="https://shields.io">Shields.io</a>
-    </li>
-    <li>
-        <a href="https://hits.dwyl.com/">HITS</a>
     </li>
   </ol>
 </details>
