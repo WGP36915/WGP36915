@@ -47,7 +47,7 @@
 ### Funny
 
 - [WGP36915](https://github.com/WGP36915/WGP36915) - 个人简介
-- [workflow-action](https://github.com/pudongping/workflow-action) - GitHub Actions
+- [workflow-action](https://github.com/WGP36915/workflow-action) - GitHub Actions
 
 ### Python
 
