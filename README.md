@@ -48,25 +48,38 @@
 
 - [WGP36915](https://github.com/WGP36915/WGP36915) - 个人简介
 - [workflow-action](https://github.com/WGP36915/WGP36915/actions) - GitHub Actions
+- [CyberryPotter_ElectromagicWand_Basic_Project](https://github.com/lyg09270/CyberryPotter_ElectromagicWand_Basic_Project) - 赛博魔杖
+- [Cyberry_Potter_Electromagic_Wand](https://github.com/lyg09270/Cyberry_Potter_Electromagic_Wand) - 赛博魔杖
+- [HoloCubic](https://github.com/WGP36915/HoloCubic_AIO) - HoloCubic超多功能AIO固件
 
 ### AI
+- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 ### General Algorithm
 - [Adaptive-KNet-ICASSP24](https://github.com/KalmanNet/Adaptive-KNet-ICASSP24) - KalmanNet
+- [AI_Aided_KFs](https://github.com/WGP36915/AI_Aided_KFs) - AI-Aided Kalman Filters
+- [Multichannel_FxLMS_Matlab](https://github.com/WGP36915/Multichannel_FxLMS_Matlab) - This work provides a MATLAB code for the McFxLMS algorithm, which can be used for the arbitrary number of channels system.
 
 ### Robotics
+- [Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - 具身智能技术指南
+- [Micro-Wheeled_leg-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
 
 ### Audio Algorithm
 
 #### ANC
-- [SFANC](https://github.com/Luo-Zhengding/SFANC-Window) - SFANC算法应用于降噪
-
+- [SFANC](https://github.com/Luo-Zhengding/SFANC-Window) - SFANC算法应用于窗户降噪
 
 #### Speech Algorithm
 - [SpeechAlgorithms](https://github.com/Ryuk17/SpeechAlgorithms) - 语音相关算法
+- [noisereduce](https://github.com/timsainb/noisereduce) - Noise reduction in python using spectral gating (speech, bioacoustics, audio, time-domain signals)
+- [DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
+- [rnnoise](https://github.com/WGP36915/rnnoise) - Recurrent neural network for audio noise reduction
 
 #### ASR
 
+
+### Tools
+- [awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 
 
 
