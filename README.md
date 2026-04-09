@@ -51,9 +51,11 @@
 - [CyberryPotter_ElectromagicWand_Basic_Project](https://github.com/lyg09270/CyberryPotter_ElectromagicWand_Basic_Project) - 赛博魔杖
 - [Cyberry_Potter_Electromagic_Wand](https://github.com/lyg09270/Cyberry_Potter_Electromagic_Wand) - 赛博魔杖
 - [HoloCubic](https://github.com/WGP36915/HoloCubic_AIO) - HoloCubic超多功能AIO固件
+- [open-earable)](https://github.com/OpenEarable/open-earable) - OpenEarable Arduino firmware
 
 ### AI
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+- [numpy-ml](https://github.com/WGP36915/numpy-ml) - Machine learning, in numpy
 
 ### General Algorithm
 - [Adaptive-KNet-ICASSP24](https://github.com/KalmanNet/Adaptive-KNet-ICASSP24) - KalmanNet
@@ -74,6 +76,7 @@
 - [noisereduce](https://github.com/timsainb/noisereduce) - Noise reduction in python using spectral gating (speech, bioacoustics, audio, time-domain signals)
 - [DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
 - [rnnoise](https://github.com/WGP36915/rnnoise) - Recurrent neural network for audio noise reduction
+- [DCCRN](https://github.com/WGP36915/DeepComplexCRN) - DCCRN
 
 #### ASR
 
