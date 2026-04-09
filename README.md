@@ -54,11 +54,14 @@
 - [open-earable)](https://github.com/OpenEarable/open-earable) - OpenEarable Arduino firmware
 - [esp-drone](https://github.com/espressif/esp-drone) - Mini Drone
 - [OpenCat](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) - Boston Dynamics-style four-legged robots
+- [ZSWatch](https://github.com/ZSWatch/ZSWatch) - 一款开源手表
 
 ### AI
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [numpy-ml](https://github.com/WGP36915/numpy-ml) - Machine learning, in numpy
 - [EmbeddedML](https://github.com/uingrd/EmbeddedML) - 《AI嵌入式系统——算法优化与实现》软件工具、例程及教学辅助材料
+- [llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
+- [KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 从零实现一个高性能的深度学习推理库
 
 ### General Algorithm
 - [Adaptive-KNet-ICASSP24](https://github.com/KalmanNet/Adaptive-KNet-ICASSP24) - KalmanNet
