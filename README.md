@@ -64,6 +64,7 @@
 - [EmbeddedML](https://github.com/uingrd/EmbeddedML) - 《AI嵌入式系统——算法优化与实现》软件工具、例程及教学辅助材料
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 从零实现一个高性能的深度学习推理库
+- [wandb](https://github.com/wandb/wandb) - 机器学习可视化工具
 
 ### General Algorithm
 - [Adaptive-KNet-ICASSP24](https://github.com/KalmanNet/Adaptive-KNet-ICASSP24) - KalmanNet
