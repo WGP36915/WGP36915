@@ -52,6 +52,7 @@
 - [Cyberry_Potter_Electromagic_Wand](https://github.com/lyg09270/Cyberry_Potter_Electromagic_Wand) - 赛博魔杖
 - [HoloCubic](https://github.com/WGP36915/HoloCubic_AIO) - HoloCubic超多功能AIO固件
 - [open-earable)](https://github.com/OpenEarable/open-earable) - OpenEarable Arduino firmware
+- [esp-drone](https://github.com/espressif/esp-drone) - Mini Drone
 
 ### AI
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -83,6 +84,7 @@
 
 ### Tools
 - [awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [praat](https://github.com/praat/praat.github.io) - Praat: Doing Phonetics By Computer
 
 
 
