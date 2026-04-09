@@ -53,10 +53,12 @@
 - [HoloCubic](https://github.com/WGP36915/HoloCubic_AIO) - HoloCubic超多功能AIO固件
 - [open-earable)](https://github.com/OpenEarable/open-earable) - OpenEarable Arduino firmware
 - [esp-drone](https://github.com/espressif/esp-drone) - Mini Drone
+- [OpenCat](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) - Boston Dynamics-style four-legged robots
 
 ### AI
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [numpy-ml](https://github.com/WGP36915/numpy-ml) - Machine learning, in numpy
+- [EmbeddedML](https://github.com/uingrd/EmbeddedML) - 《AI嵌入式系统——算法优化与实现》软件工具、例程及教学辅助材料
 
 ### General Algorithm
 - [Adaptive-KNet-ICASSP24](https://github.com/KalmanNet/Adaptive-KNet-ICASSP24) - KalmanNet
@@ -68,7 +70,7 @@
 - [Micro-Wheeled_leg-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
 
 ### Audio Algorithm
-
+- [audiocraft](https://github.com/facebookresearch/audiocraft) - 音频生成
 #### ANC
 - [SFANC](https://github.com/Luo-Zhengding/SFANC-Window) - SFANC算法应用于窗户降噪
 
@@ -78,6 +80,7 @@
 - [DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
 - [rnnoise](https://github.com/WGP36915/rnnoise) - Recurrent neural network for audio noise reduction
 - [DCCRN](https://github.com/WGP36915/DeepComplexCRN) - DCCRN
+- [DTLN](https://github.com/WGP36915/DTLN) - Tensorflow 2.x implementation of the DTLN real time speech denoising model. With TF-lite, ONNX and real-time audio processing support.
 
 #### ASR
 
@@ -85,6 +88,11 @@
 ### Tools
 - [awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [praat](https://github.com/praat/praat.github.io) - Praat: Doing Phonetics By Computer
+- [sonic-visualiser](https://github.com/sonic-visualiser/sonic-visualiser) - 开源音频分析软件
+- [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on C++ Qt/PyQt/PySide.
+- [shotcut](https://github.com/mltframework/shotcut) - 一款视频编辑软件
+- [gradio](https://github.com/gradio-app/gradio) - Gradio: Build Machine Learning Web Apps — in Python
+
 
 
 
