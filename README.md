@@ -66,11 +66,13 @@
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 从零实现一个高性能的深度学习推理库
 - [wandb](https://github.com/wandb/wandb) - 机器学习可视化工具
+- [nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 
 ### General Algorithm
 - [Adaptive-KNet-ICASSP24](https://github.com/KalmanNet/Adaptive-KNet-ICASSP24) - KalmanNet
 - [AI_Aided_KFs](https://github.com/WGP36915/AI_Aided_KFs) - AI-Aided Kalman Filters
 - [Multichannel_FxLMS_Matlab](https://github.com/WGP36915/Multichannel_FxLMS_Matlab) - This work provides a MATLAB code for the McFxLMS algorithm, which can be used for the arbitrary number of channels system.
+- [hello-algo](https://github.com/WGP36915/hello-algo) - 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书
 
 ### Robotics
 - [Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - 具身智能技术指南
@@ -79,6 +81,7 @@
 ### Audio Algorithm
 - [audiocraft](https://github.com/facebookresearch/audiocraft) - 音频生成
 - [musicpy](https://github.com/Rainbow-Dreamer/musicpy) - 编程写音乐
+- [bcresnet](https://github.com/Qualcomm-AI-research/bcresnet) - 异常声音检测
 #### ANC
 - [SFANC](https://github.com/Luo-Zhengding/SFANC-Window) - SFANC算法应用于窗户降噪
 
@@ -89,11 +92,15 @@
 - [rnnoise](https://github.com/WGP36915/rnnoise) - Recurrent neural network for audio noise reduction
 - [DCCRN](https://github.com/WGP36915/DeepComplexCRN) - DCCRN
 - [DTLN](https://github.com/WGP36915/DTLN) - Tensorflow 2.x implementation of the DTLN real time speech denoising model. With TF-lite, ONNX and real-time audio processing support.
+- [whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 
 #### ASR
 
 ### Vision
 - [insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
+- [motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper "Human Motion Diffusion Model"
+- [segment-anything](https://github.com/facebookresearch/segment-anything) - 图像分割
+- 
 
 ### Tools
 - [awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
@@ -102,6 +109,7 @@
 - [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on C++ Qt/PyQt/PySide.
 - [shotcut](https://github.com/mltframework/shotcut) - 一款视频编辑软件
 - [gradio](https://github.com/gradio-app/gradio) - Gradio: Build Machine Learning Web Apps — in Python
+- [galagino](https://github.com/harbaum/galagino) - ESP32上的Galaga、吃豆人和大金刚街机模拟器
 
 
 
