@@ -56,7 +56,8 @@
 - [OpenCat](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) - Boston Dynamics-style four-legged robots
 - [ZSWatch](https://github.com/ZSWatch/ZSWatch) - 一款开源手表
 - [esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - 水墨屏桌面日历
-- 
+- [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 稚晖君机械臂项目
+- [donkeycar](https://github.com/autorope/donkeycar) - 自动驾驶小车
 
 ### AI
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -77,6 +78,7 @@
 
 ### Audio Algorithm
 - [audiocraft](https://github.com/facebookresearch/audiocraft) - 音频生成
+- [musicpy](https://github.com/Rainbow-Dreamer/musicpy) - 编程写音乐
 #### ANC
 - [SFANC](https://github.com/Luo-Zhengding/SFANC-Window) - SFANC算法应用于窗户降噪
 
