@@ -55,6 +55,8 @@
 - [esp-drone](https://github.com/espressif/esp-drone) - Mini Drone
 - [OpenCat](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) - Boston Dynamics-style four-legged robots
 - [ZSWatch](https://github.com/ZSWatch/ZSWatch) - 一款开源手表
+- [esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - 水墨屏桌面日历
+- 
 
 ### AI
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
