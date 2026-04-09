@@ -114,6 +114,7 @@
 - [GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱(Game Development Map)
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - 开源、免费的离线OCR软件
 - [code2flow](https://github.com/scottrogowski/code2flow) - 生成函数调用关系图
+- [ThinkDSP](https://github.com/AllenDowney/ThinkDSP) - Think DSP: Digital Signal Processing in Python
 
 
 
