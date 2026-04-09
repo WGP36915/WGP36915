@@ -67,6 +67,7 @@
 - [KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 从零实现一个高性能的深度学习推理库
 - [wandb](https://github.com/wandb/wandb) - 机器学习可视化工具
 - [nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+- [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - labml.ai Deep Learning Paper Implementations
 
 ### General Algorithm
 - [Adaptive-KNet-ICASSP24](https://github.com/KalmanNet/Adaptive-KNet-ICASSP24) - KalmanNet
@@ -100,7 +101,6 @@
 - [insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper "Human Motion Diffusion Model"
 - [segment-anything](https://github.com/facebookresearch/segment-anything) - 图像分割
-- 
 
 ### Tools
 - [awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
