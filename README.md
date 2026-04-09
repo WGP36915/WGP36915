@@ -68,6 +68,7 @@
 - [wandb](https://github.com/wandb/wandb) - 机器学习可视化工具
 - [nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - labml.ai Deep Learning Paper Implementations
+- [tuning_playbook](https://github.com/google-research/tuning_playbook) - 深度学习微调手册
 
 ### General Algorithm
 - [Adaptive-KNet-ICASSP24](https://github.com/KalmanNet/Adaptive-KNet-ICASSP24) - KalmanNet
