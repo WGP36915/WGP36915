@@ -58,6 +58,7 @@
 - [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 稚晖君机械臂项目
 - [donkeycar](https://github.com/autorope/donkeycar) - 自动驾驶小车
 - [open-adas](https://github.com/vietanhdev/open-adas) - An open source advanced driver assistance system (ADAS) that uses Jetson Nano as the hardware
+- [folio-2019](https://github.com/brunosimon/folio-2019) - 3D博客
 
 ### AI
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
