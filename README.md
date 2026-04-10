@@ -93,6 +93,7 @@
 - [musicpy](https://github.com/Rainbow-Dreamer/musicpy) - 编程写音乐
 - [bcresnet](https://github.com/Qualcomm-AI-research/bcresnet) - 异常声音检测
 - [audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
+- [SC-WaveRNN](https://github.com/chenwj1989/SC-WaveRNN) - Official PyTorch implementation of Speaker Conditional WaveRNN
 #### ANC&AEC
 - [SFANC](https://github.com/Luo-Zhengding/SFANC-Window) - SFANC算法应用于窗户降噪
 - [NKF](https://github.com/WGP36915/NKF-AEC) - 卡尔曼和神经网络的结合
@@ -110,6 +111,8 @@
 - [TCNN](https://github.com/WGP36915/TCNN) - TCNN Temporal convolutional neural network for real-time speech enhancement in the time domain
 - [whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [python_sound_open](https://github.com/WGP36915/python_sound_open) - 语音信号处理试验教程，Python代码
+- [WebRTC_NS](https://github.com/cpuimage/WebRTC_NS) - Noise Suppression Module Port From WebRTC
+- [CRNN](https://github.com/WGP36915/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement) - 使用PyTorch对CRN的最低限度非官方实现
 
 #### ASR
 
@@ -131,7 +134,10 @@
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - 开源、免费的离线OCR软件
 - [code2flow](https://github.com/scottrogowski/code2flow) - 生成函数调用关系图
 - [ThinkDSP](https://github.com/AllenDowney/ThinkDSP) - Think DSP: Digital Signal Processing in Python
+- [thinkdsp-cn](https://github.com/feiyanke/thinkdsp-cn) - 《ThinkDSP》 中文翻译
 - [A bare metal programming guide](https://github.com/cpq/bare-metal-programming-guide?tab=readme-ov-file) - 嵌入式裸机编程指南
+- [arm-tutorial-rpi](https://github.com/BrianSidebotham/arm-tutorial-rpi) - C语言Raspberry-Pi裸机编程教程
+- [RaspPyOpenCV](https://github.com/WGP36915/RaspPyOpenCV) - 《智能硬件与机器视觉：基于树莓派、Python和OpenCV》配套代码和资料
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100天机器学习编程
 - [EasyLogger](https://github.com/armink/EasyLogger) - 一款超轻量级(ROM<1.6K, RAM<0.3k)、高性能的 C/C++ 日志库
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 基于项目的学习资源
