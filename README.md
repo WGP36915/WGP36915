@@ -94,6 +94,7 @@
 - [bcresnet](https://github.com/Qualcomm-AI-research/bcresnet) - 异常声音检测
 - [audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [SC-WaveRNN](https://github.com/chenwj1989/SC-WaveRNN) - Official PyTorch implementation of Speaker Conditional WaveRNN
+- 
 #### ANC&AEC
 - [SFANC](https://github.com/Luo-Zhengding/SFANC-Window) - SFANC算法应用于窗户降噪
 - [NKF](https://github.com/WGP36915/NKF-AEC) - 卡尔曼和神经网络的结合
@@ -113,6 +114,7 @@
 - [python_sound_open](https://github.com/WGP36915/python_sound_open) - 语音信号处理试验教程，Python代码
 - [WebRTC_NS](https://github.com/cpuimage/WebRTC_NS) - Noise Suppression Module Port From WebRTC
 - [CRNN](https://github.com/WGP36915/A-Convolutional-Recurrent-Neural-Network-for-Real-Time-Speech-Enhancement) - 使用PyTorch对CRN的最低限度非官方实现
+- [Beamforming-for-speech-enhancement](https://github.com/AkojimaSLP/Beamforming-for-speech-enhancement) - simple delaysum, MVDR and CGMM-MVDR
 
 #### ASR
 
@@ -146,6 +148,7 @@
 - [BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) - Learn C and build your own programming language in under 1000 lines of code!
 - [bar_chart_race](https://github.com/dexplo/bar_chart_race) - About Create animated bar chart races in Python with matplotlib
 - [BluetoothTouch](https://github.com/peng-zhihui/BluetoothTouch) - 一个Android端的蓝牙遥控APP，提供Arduino库，方便用于机器人、小车等调试用途。
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - 算法可视化
 
 <details>
 <summary>More </summary>
