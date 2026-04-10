@@ -139,6 +139,7 @@
 - [Planck-Pi](https://github.com/peng-zhihui/Planck-Pi) - Super TINY & Low-cost Linux Develop-Kit Based On F1C200s.
 - [BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) - Learn C and build your own programming language in under 1000 lines of code!
 - [bar_chart_race](https://github.com/dexplo/bar_chart_race) - About Create animated bar chart races in Python with matplotlib
+- [BluetoothTouch](https://github.com/peng-zhihui/BluetoothTouch) - 一个Android端的蓝牙遥控APP，提供Arduino库，方便用于机器人、小车等调试用途。
 
 <details>
 <summary>More </summary>
