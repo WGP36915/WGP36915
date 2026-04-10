@@ -55,10 +55,13 @@
 - [OpenCat](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) - Boston Dynamics-style four-legged robots
 - [ZSWatch](https://github.com/ZSWatch/ZSWatch) - 一款开源手表
 - [esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - 水墨屏桌面日历
-- [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 稚晖君机械臂项目
 - [donkeycar](https://github.com/autorope/donkeycar) - 自动驾驶小车
 - [open-adas](https://github.com/vietanhdev/open-adas) - An open source advanced driver assistance system (ADAS) that uses Jetson Nano as the hardware
 - [folio-2019](https://github.com/brunosimon/folio-2019) - 3D博客
+- [kys-cpp](https://github.com/scarsty/kys-cpp) - 《金庸群侠传》c++复刻版
+- [HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) - 稚晖君的智能键盘项目
+- [ElectronBot](https://github.com/peng-zhihui/ElectronBot) - 稚晖君的桌面小机器人项目
+- [Face-Detector-Smart-Lock](https://github.com/karenlo08/Face-Detector-Smart-Lock) - 树莓派人脸识别
 
 ### AI
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -80,17 +83,21 @@
 ### Robotics
 - [Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - 具身智能技术指南
 - [Micro-Wheeled_leg-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
+- [A1-QP-MPC-Controller](https://github.com/ShuoYangRobotics/A1-QP-MPC-Controller) - MIT Cheetah 3控制器的开源实现
+- [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 稚晖君机械臂项目
 
 ### Audio Algorithm
 - [audiocraft](https://github.com/facebookresearch/audiocraft) - 音频生成
 - [musicpy](https://github.com/Rainbow-Dreamer/musicpy) - 编程写音乐
 - [bcresnet](https://github.com/Qualcomm-AI-research/bcresnet) - 异常声音检测
 - [audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
-#### ANC
+#### ANC&AEC
 - [SFANC](https://github.com/Luo-Zhengding/SFANC-Window) - SFANC算法应用于窗户降噪
+- [NKF](https://github.com/WGP36915/NKF-AEC) - 卡尔曼和神经网络的结合
 
 #### Speech Algorithm
 - [SpeechAlgorithms](https://github.com/Ryuk17/SpeechAlgorithms) - 语音相关算法
+- [traditional-speech-enhancement](https://github.com/WGP36915/traditional-speech-enhancement) - 传统语音增强算法，Matlab实现
 - [noisereduce](https://github.com/timsainb/noisereduce) - Noise reduction in python using spectral gating (speech, bioacoustics, audio, time-domain signals)
 - [DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
 - [rnnoise](https://github.com/WGP36915/rnnoise) - Recurrent neural network for audio noise reduction
@@ -104,6 +111,7 @@
 - [insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper "Human Motion Diffusion Model"
 - [segment-anything](https://github.com/facebookresearch/segment-anything) - 图像分割
+- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - 修复老旧图片
 
 ### Tools
 - [awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
@@ -118,6 +126,10 @@
 - [code2flow](https://github.com/scottrogowski/code2flow) - 生成函数调用关系图
 - [ThinkDSP](https://github.com/AllenDowney/ThinkDSP) - Think DSP: Digital Signal Processing in Python
 - [A bare metal programming guide](https://github.com/cpq/bare-metal-programming-guide?tab=readme-ov-file) - 嵌入式裸机编程指南
+- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100天机器学习编程
+- [EasyLogger](https://github.com/armink/EasyLogger) - 一款超轻量级(ROM<1.6K, RAM<0.3k)、高性能的 C/C++ 日志库
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 基于项目的学习资源
+- [matrix-webcam](https://github.com/joschuck/matrix-webcam) - 视频会议数字矩阵
 
 
 
