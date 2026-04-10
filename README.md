@@ -62,6 +62,8 @@
 - [HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) - 稚晖君的智能键盘项目
 - [ElectronBot](https://github.com/peng-zhihui/ElectronBot) - 稚晖君的桌面小机器人项目
 - [Face-Detector-Smart-Lock](https://github.com/karenlo08/Face-Detector-Smart-Lock) - 树莓派人脸识别
+- [rpi4-osdev](https://github.com/sypstraw/rpi4-osdev) - 树莓派裸机系统
+- [MiniRover-Hardware](https://github.com/peng-zhihui/MiniRover-Hardware) - 火星车的开源资料
 
 ### AI
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -94,6 +96,8 @@
 #### ANC&AEC
 - [SFANC](https://github.com/Luo-Zhengding/SFANC-Window) - SFANC算法应用于窗户降噪
 - [NKF](https://github.com/WGP36915/NKF-AEC) - 卡尔曼和神经网络的结合
+- [DTLN-aec](https://github.com/WGP36915/DTLN-aec) - his Repostory contains the pretrained DTLN-aec model for real-time acoustic echo cancellation.
+- [pyaec](https://github.com/WGP36915/pyaec) - simple and efficient python implemention of a series of adaptive filters. including time domain adaptive filters(lms、nlms、rls、ap、kalman).
 
 #### Speech Algorithm
 - [SpeechAlgorithms](https://github.com/Ryuk17/SpeechAlgorithms) - 语音相关算法
@@ -103,7 +107,9 @@
 - [rnnoise](https://github.com/WGP36915/rnnoise) - Recurrent neural network for audio noise reduction
 - [DCCRN](https://github.com/WGP36915/DeepComplexCRN) - DCCRN
 - [DTLN](https://github.com/WGP36915/DTLN) - Tensorflow 2.x implementation of the DTLN real time speech denoising model. With TF-lite, ONNX and real-time audio processing support.
+- [TCNN](https://github.com/WGP36915/TCNN) - TCNN Temporal convolutional neural network for real-time speech enhancement in the time domain
 - [whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
+- [python_sound_open](https://github.com/WGP36915/python_sound_open) - 语音信号处理试验教程，Python代码
 
 #### ASR
 
@@ -130,9 +136,9 @@
 - [EasyLogger](https://github.com/armink/EasyLogger) - 一款超轻量级(ROM<1.6K, RAM<0.3k)、高性能的 C/C++ 日志库
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 基于项目的学习资源
 - [matrix-webcam](https://github.com/joschuck/matrix-webcam) - 视频会议数字矩阵
-
-
-
+- [Planck-Pi](https://github.com/peng-zhihui/Planck-Pi) - Super TINY & Low-cost Linux Develop-Kit Based On F1C200s.
+- [BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) - Learn C and build your own programming language in under 1000 lines of code!
+- [bar_chart_race](https://github.com/dexplo/bar_chart_race) - About Create animated bar chart races in Python with matplotlib
 
 <details>
 <summary>More </summary>
