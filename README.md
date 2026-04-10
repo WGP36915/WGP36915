@@ -45,7 +45,6 @@
 ## 🔥 My projects:
 
 ### Funny
-
 - [WGP36915](https://github.com/WGP36915/WGP36915) - 个人简介
 - [workflow-action](https://github.com/WGP36915/WGP36915/actions) - GitHub Actions
 - [CyberryPotter_ElectromagicWand_Basic_Project](https://github.com/lyg09270/CyberryPotter_ElectromagicWand_Basic_Project) - 赛博魔杖
@@ -58,6 +57,7 @@
 - [esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - 水墨屏桌面日历
 - [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) - 稚晖君机械臂项目
 - [donkeycar](https://github.com/autorope/donkeycar) - 自动驾驶小车
+- [open-adas](https://github.com/vietanhdev/open-adas) - An open source advanced driver assistance system (ADAS) that uses Jetson Nano as the hardware
 
 ### AI
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -84,6 +84,7 @@
 - [audiocraft](https://github.com/facebookresearch/audiocraft) - 音频生成
 - [musicpy](https://github.com/Rainbow-Dreamer/musicpy) - 编程写音乐
 - [bcresnet](https://github.com/Qualcomm-AI-research/bcresnet) - 异常声音检测
+- [audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 #### ANC
 - [SFANC](https://github.com/Luo-Zhengding/SFANC-Window) - SFANC算法应用于窗户降噪
 
